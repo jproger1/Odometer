@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Odometr</string>
+    <string name="permission_denied">Location permission requied</string>
 </resources>
